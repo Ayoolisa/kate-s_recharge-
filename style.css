@@ -182,7 +182,7 @@ header {
 
 .container {
     position: relative;
-    max-width: 1440px;
+    /* max-width: 1440px; */
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
